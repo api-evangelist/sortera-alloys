@@ -12,6 +12,17 @@ description: >-
   intelligence runs inside Sortera's own sorting lines as an in-house platform; the product sold is
   recycled metal, not software, and the company publishes no public API, SDK, developer portal or
   machine-readable specification.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://sortera.wpengine.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-07-at-10.01.57-AM.png
 url: https://raw.githubusercontent.com/api-evangelist/sortera-alloys/refs/heads/main/apis.yml
 x-type: company
