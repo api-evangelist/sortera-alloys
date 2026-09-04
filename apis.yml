@@ -23,6 +23,18 @@ deliveryModel:
   - none
   generated: '2026-08-28'
   method: derived
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - security
+  generated: '2026-09-02'
+  method: derived
 image: https://sortera.wpengine.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-07-at-10.01.57-AM.png
 url: https://raw.githubusercontent.com/api-evangelist/sortera-alloys/refs/heads/main/apis.yml
 x-type: company
