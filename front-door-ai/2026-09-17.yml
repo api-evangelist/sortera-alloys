@@ -1,0 +1,26 @@
+# Front Door AI Index — sortera-alloys — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: sortera-alloys
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.sorteratechnologies.com
+  final_host: www.sorteratechnologies.com
+  ownership: own
+  owner: sortera-alloys
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 3
+  host_score: 3
+  density: 11.58
+  words: 259
+  tiers:
+    agentic: 0
+    core: 3
+    model: 0
+  ambiguous: 4
+  top_terms:
+    intelligence: 4
+    artificial intelligence: 3
